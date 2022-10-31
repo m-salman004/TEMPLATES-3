@@ -1,5 +1,10 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
     line-height: 1.5;
+}
+/* Navbar Hover */
+#hoverEffect:hover {
+    background-color: #ccc;
+    padding-left: 9.5px;
+    padding-right: 9.5px;
 }
