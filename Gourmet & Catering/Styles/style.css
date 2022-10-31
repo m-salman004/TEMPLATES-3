@@ -5,6 +5,8 @@ body {
 /* Navbar Hover */
 #hoverEffect:hover {
     background-color: #ccc;
-    padding-left: 9.5px;
-    padding-right: 9.5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
