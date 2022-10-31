@@ -10,3 +10,8 @@ body {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+/* Hero Section */
+#heroSection {
+    background-image: url("/Images/hamburger.jpg");
+    min-height: 100vh;
+}
