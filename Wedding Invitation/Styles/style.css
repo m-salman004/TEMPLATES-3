@@ -34,4 +34,7 @@ nav {
     font-style: italic;
     line-height: 2;
     font-size: 15px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
 }
