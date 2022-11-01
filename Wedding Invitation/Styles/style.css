@@ -25,9 +25,12 @@ nav {
 #titleText {
     font-size: 75px !important;
 }
+/* Background Color */
+.bgColor {
+    background-color: #ffdddd !important;
+}
 /* jhan & John Section */
 #janeJohnsection {
-    background-color: #ffdddd !important;
     filter: grayscale(50%);
 }
 .descriptionText {
