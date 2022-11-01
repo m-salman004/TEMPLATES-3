@@ -28,4 +28,5 @@ nav {
 /* jhan & John Section */
 #janeJohnsection {
     background-color: #ffdddd !important;
+    filter: grayscale(50%);
 }
