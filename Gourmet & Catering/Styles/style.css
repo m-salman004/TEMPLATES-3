@@ -38,3 +38,7 @@ body {
 .colorText {
     color: #607d8b!important;
 }
+.form-control {
+    border: none  !important;
+    border-bottom: 1px solid #ccc !important;
+}
