@@ -1,3 +1,8 @@
+body {
+    font-family: "Raleway", sans-serif !important;
+    font-size: 15px !important;
+    line-height: 1.5;
+}
 /* Nav Bar */
 #hoverEffect:hover {
     background-color: lightgrey !important;
