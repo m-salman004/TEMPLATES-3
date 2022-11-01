@@ -34,5 +34,7 @@ body {
 }
 .textFont {
     font-size: 15px;  
-
+}
+.colorText {
+    color: #607d8b!important;
 }
