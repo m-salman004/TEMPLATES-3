@@ -22,3 +22,6 @@ nav {
     background-size: cover;
     filter: grayscale(50%);
 }
+#titleText {
+    font-size: 75px !important;
+}
