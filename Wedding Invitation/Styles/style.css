@@ -4,6 +4,9 @@ body {
     line-height: 1.5;
 }
 /* Nav Bar */
+nav {
+    opacity: 0.5;
+}
 #hoverEffect:hover {
     background-color: lightgrey !important;
 }
