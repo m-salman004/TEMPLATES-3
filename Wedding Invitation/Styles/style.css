@@ -38,3 +38,12 @@ nav {
     margin-left: 100px;
     margin-right: 100px;
 }
+.btn {
+    background-color: black !important;
+    color: white !important;
+    border-radius: 0%;
+}
+.btn:hover {
+    background-color: lightgrey !important;
+    color: black !important;
+}
