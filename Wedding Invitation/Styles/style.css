@@ -70,3 +70,8 @@ nav {
 #footerText {
     background-color: #ffdddd !important;
 }
+.textFooter {
+    font-size: 17px;
+    letter-spacing: 5px;
+
+}
