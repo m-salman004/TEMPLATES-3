@@ -15,3 +15,7 @@ nav {
     color: white !important;
 }
 /* Hero Section */
+#heroSection {
+    background-image: url("../Images/wedding_couple.jpg");
+    min-height: 100vh;
+}
