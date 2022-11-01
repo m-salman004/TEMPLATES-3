@@ -48,3 +48,7 @@ nav {
     color: black !important;
 }
 /* Invited Section */
+#invitiedSection {
+    background-image: url("../Images/flowers.jpg");
+    min-height: 100vh;
+}
