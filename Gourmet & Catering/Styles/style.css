@@ -12,7 +12,7 @@ body {
 }
 /* Hero Section */
 #heroSection {
-    background-image: url("/Images/hamburger.jpg");
+    background-image: url(".../Images/hamburger.jpg");
     min-height: 100vh;
     letter-spacing: 5px;
 }
