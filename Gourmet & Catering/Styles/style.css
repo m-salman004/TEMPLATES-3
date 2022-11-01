@@ -48,3 +48,6 @@ label {
     font-size: 15px;
     opacity: 0.7;
 }
+.btn {
+    border-radius: 0%;   
+}
