@@ -74,3 +74,12 @@ nav {
     font-size: 17px;
     letter-spacing: 5px;
 }
+.btnFooter {
+    background-color: #f44336 !important;
+    color: white !important;
+    font-size: x-large;
+}
+.btnFooter:hover {
+    background-color: lightgrey !important;
+    color: black !important;
+}
