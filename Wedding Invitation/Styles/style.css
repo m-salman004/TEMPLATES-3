@@ -51,4 +51,7 @@ nav {
 #invitiedSection {
     background-image: url("../Images/flowers.jpg");
     min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
