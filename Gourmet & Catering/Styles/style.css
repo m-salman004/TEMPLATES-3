@@ -27,5 +27,10 @@ body {
 /* Our Menu */
 #textMenu {
     font-size: 15px;
+    
+}
+/* Footer */
+.textFooter {
+    letter-spacing: 5px;
 
 }
