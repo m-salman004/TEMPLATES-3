@@ -30,3 +30,8 @@ nav {
     background-color: #ffdddd !important;
     filter: grayscale(50%);
 }
+.descriptionText {
+    font-style: italic;
+    line-height: 2;
+    font-size: 15px;
+}
