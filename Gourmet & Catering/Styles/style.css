@@ -16,3 +16,6 @@ body {
     min-height: 100vh;
     letter-spacing: 5px;
 }
+#textHead {
+    letter-spacing: 5px;
+}
