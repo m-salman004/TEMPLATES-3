@@ -59,6 +59,9 @@ nav {
     background-size: cover;
 }
 /* The Wedding */
+#theWedding {
+    filter: grayscale(50%);
+}
 .colorText {
     color: gray !important;
 }
