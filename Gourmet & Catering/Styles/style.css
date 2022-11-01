@@ -44,3 +44,7 @@ body {
     border-radius: 0%;
     font-size: 15px;
 }
+label {
+    font-size: 15px;
+    opacity: 0.7;
+}
