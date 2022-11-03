@@ -16,3 +16,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+#textImage {
+    font-size: 90px;
+    color: #fd5948;
+}
