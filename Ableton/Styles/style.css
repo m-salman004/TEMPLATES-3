@@ -25,5 +25,8 @@ body {
 /* Description */
 #linksD {
     text-decoration: none;
-
+}
+#description {
+    text-align: justify;
+    text-align: center;
 }
