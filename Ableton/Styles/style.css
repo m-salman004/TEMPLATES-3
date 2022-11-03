@@ -19,4 +19,6 @@ body {
 #textImage {
     font-size: 90px;
     color: #fd5948;
+    font-weight: bold;
+    letter-spacing: 5px;
 }
