@@ -1,8 +1,13 @@
 body {
     font-family: 'Times New Roman', Times, serif !important;
 }
-
+/* Hero Section */
 #links {
     text-decoration: none;
     margin-left: 20px;
+}
+/* Image Section */
+#imageSection {
+    background-image: url("../Images/header.avif");
+    min-height: 90vh;
 }
