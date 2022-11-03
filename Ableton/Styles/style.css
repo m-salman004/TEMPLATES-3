@@ -10,4 +10,9 @@ body {
 #imageSection {
     background-image: url("../Images/header.avif");
     min-height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 150px;
 }
